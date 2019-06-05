@@ -111,7 +111,8 @@ export default {
           component: './Welcome',
         },
         {
-          name: 'blank',
+          name: '用户管理',
+          icon: 'user',
           path: '/blank',
           component: './blank',
         },
